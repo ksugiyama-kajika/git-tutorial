@@ -1,9 +1,9 @@
-
-
-
 # Gitチュートリアル
 
- freature-A
+
+-freature-A
 
 -fix-B
+
+-Feature-C
 
